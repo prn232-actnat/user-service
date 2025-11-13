@@ -13,7 +13,7 @@ public partial class UserServiceContext : DbContext
     {
     }
 
-    public virtual DbSet<Payment> Payments { get; set; }
+    public virtual DbSet<Order> Orders { get; set; }
 
     public virtual DbSet<Transaction> Transactions { get; set; }
 
@@ -23,51 +23,53 @@ public partial class UserServiceContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Payment>(entity =>
+        modelBuilder.Entity<Order>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Payments__3214EC0776922ED2");
+            entity.HasKey(e => e.OrderId).HasName("PK__Orders__C3905BCF18DFD45F");
 
-            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
+            entity.Property(e => e.OrderId).HasDefaultValueSql("(newid())");
             entity.Property(e => e.Amount).HasColumnType("decimal(18, 2)");
             entity.Property(e => e.CreatedAt).HasDefaultValueSql("(sysdatetime())");
-            entity.Property(e => e.Currency)
-                .HasMaxLength(10)
-                .HasDefaultValue("VND");
-            entity.Property(e => e.Method).HasMaxLength(50);
             entity.Property(e => e.Status)
                 .IsRequired()
-                .HasMaxLength(50);
+                .HasMaxLength(20)
+                .HasDefaultValue("PENDING");
             entity.Property(e => e.UpdatedAt).HasDefaultValueSql("(sysdatetime())");
 
-            entity.HasOne(d => d.User).WithMany(p => p.Payments)
+            entity.HasOne(d => d.User).WithMany(p => p.Orders)
                 .HasForeignKey(d => d.UserId)
-                .HasConstraintName("FK__Payments__UserId__46E78A0C");
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__Orders__UserId__47DBAE45");
         });
 
         modelBuilder.Entity<Transaction>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Transact__3214EC07BC04679B");
-
-            entity.HasIndex(e => e.TransactionRef, "UQ__Transact__81F53523C46850D3").IsUnique();
+            entity.HasKey(e => e.Id).HasName("PK__Transact__3214EC07F0C9F642");
 
             entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
+            entity.Property(e => e.Amount).HasColumnType("decimal(18, 2)");
+            entity.Property(e => e.BankCode).HasMaxLength(50);
+            entity.Property(e => e.CardType).HasMaxLength(50);
             entity.Property(e => e.CreatedAt).HasDefaultValueSql("(sysdatetime())");
-            entity.Property(e => e.Status)
+            entity.Property(e => e.PayDate).HasColumnType("datetime");
+            entity.Property(e => e.ResponseCode).HasMaxLength(10);
+            entity.Property(e => e.SecureHash).HasMaxLength(255);
+            entity.Property(e => e.TransactionStatus).HasMaxLength(50);
+            entity.Property(e => e.TxnRef)
                 .IsRequired()
-                .HasMaxLength(50);
-            entity.Property(e => e.TransactionRef).HasMaxLength(255);
-            entity.Property(e => e.UpdatedAt).HasDefaultValueSql("(sysdatetime())");
+                .HasMaxLength(255);
 
-            entity.HasOne(d => d.Payment).WithMany(p => p.Transactions)
-                .HasForeignKey(d => d.PaymentId)
-                .HasConstraintName("FK__Transacti__Payme__4F7CD00D");
+            entity.HasOne(d => d.Order).WithMany(p => p.Transactions)
+                .HasForeignKey(d => d.OrderId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__Transacti__Order__4F7CD00D");
         });
 
         modelBuilder.Entity<User>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Users__3214EC07BAE63F80");
+            entity.HasKey(e => e.Id).HasName("PK__Users__3214EC075F3B905A");
 
-            entity.HasIndex(e => e.Email, "UQ__Users__A9D105348EE854F8").IsUnique();
+            entity.HasIndex(e => e.Email, "UQ__Users__A9D10534BD5BF8C8").IsUnique();
 
             entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
             entity.Property(e => e.CreatedAt).HasDefaultValueSql("(sysdatetime())");
@@ -79,13 +81,12 @@ public partial class UserServiceContext : DbContext
                 .IsRequired()
                 .HasMaxLength(255);
             entity.Property(e => e.Gender).HasMaxLength(10);
+            entity.Property(e => e.LastLoginDate).HasDefaultValueSql("(sysdatetime())");
             entity.Property(e => e.PasswordHash)
                 .IsRequired()
                 .HasMaxLength(255);
             entity.Property(e => e.PhoneNumber).HasMaxLength(20);
-            entity.Property(e => e.Premium)
-                .HasDefaultValue(false)
-                .HasColumnName("PREMIUM");
+            entity.Property(e => e.Premium).HasDefaultValue(false);
             entity.Property(e => e.Role)
                 .IsRequired()
                 .HasMaxLength(20);
@@ -94,7 +95,7 @@ public partial class UserServiceContext : DbContext
 
         modelBuilder.Entity<UserBadge>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__UserBadg__3214EC0780374571");
+            entity.HasKey(e => e.Id).HasName("PK__UserBadg__3214EC079899E455");
 
             entity.HasIndex(e => new { e.UserId, e.BadgeId }, "UQ_UserBadge").IsUnique();
 
@@ -103,7 +104,7 @@ public partial class UserServiceContext : DbContext
 
             entity.HasOne(d => d.User).WithMany(p => p.UserBadges)
                 .HasForeignKey(d => d.UserId)
-                .HasConstraintName("FK__UserBadge__UserI__4222D4EF");
+                .HasConstraintName("FK__UserBadge__UserI__4316F928");
         });
 
         OnModelCreatingPartial(modelBuilder);

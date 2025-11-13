@@ -12,15 +12,21 @@ namespace DataAccess.UnitOfWork
     public class UnitOfWork : IUnitOfWork
     {
         private readonly UserServiceContext _context;
-
+        
         public IUserRepository Users { get; }
+        public ITransactionRepository Transactions { get; }
+        public IOrderRepository Orders { get; }
 
         public UnitOfWork(
             UserServiceContext context,
-            IUserRepository userRepository)
+            IUserRepository userRepository,
+            ITransactionRepository transactionRepository,
+            IOrderRepository orderRepository)
         {
             _context = context;
             Users = userRepository;
+            Transactions = transactionRepository;
+            Orders = orderRepository;
         }
 
         public Task<int> SaveChangesAsync()

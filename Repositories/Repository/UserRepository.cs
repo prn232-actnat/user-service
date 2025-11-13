@@ -22,10 +22,5 @@ namespace Repositories.Repository
             return await _context.Users
                                  .FirstOrDefaultAsync(a => a.Email == email);
         }
-        public async Task AddAsync(User user)
-        {
-            await _context.Users.AddAsync(user);
-        }
     }
-
 }

@@ -15,7 +15,7 @@
    "T4TemplatePath": null,
    "Tables": [
       {
-         "Name": "[dbo].[Payments]",
+         "Name": "[dbo].[Orders]",
          "ObjectType": 0
       },
       {

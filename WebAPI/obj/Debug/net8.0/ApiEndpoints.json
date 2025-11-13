@@ -52,6 +52,32 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebAPI.Controllers.PaymentController",
+    "Method": "BuyPackage",
+    "RelativePath": "api/v1/user/payment/buy-package",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DTOs.Request.BuyPackageRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.PaymentController",
+    "Method": "VnpayReturn",
+    "RelativePath": "api/v1/user/payment/vnpay-return",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebAPI.Controllers.AuthController",
     "Method": "Register",
     "RelativePath": "api/v1/user/register",

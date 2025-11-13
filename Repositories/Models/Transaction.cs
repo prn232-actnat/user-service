@@ -9,17 +9,27 @@ public partial class Transaction
 {
     public Guid Id { get; set; }
 
-    public Guid PaymentId { get; set; }
+    public Guid OrderId { get; set; }
 
-    public string TransactionRef { get; set; }
+    public string TxnRef { get; set; }
 
-    public string GatewayResponse { get; set; }
+    public decimal? Amount { get; set; }
 
-    public string Status { get; set; }
+    public string BankCode { get; set; }
+
+    public string CardType { get; set; }
+
+    public DateTime? PayDate { get; set; }
+
+    public string ResponseCode { get; set; }
+
+    public string TransactionStatus { get; set; }
+
+    public string SecureHash { get; set; }
+
+    public string RawData { get; set; }
 
     public DateTime? CreatedAt { get; set; }
 
-    public DateTime? UpdatedAt { get; set; }
-
-    public virtual Payment Payment { get; set; }
+    public virtual Order Order { get; set; }
 }

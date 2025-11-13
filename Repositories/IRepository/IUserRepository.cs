@@ -11,6 +11,5 @@ namespace Repositories.IRepository
     public interface IUserRepository : IGenericRepository<User>
     {
         Task<User?> GetByEmailAsync(string email);
-        Task AddAsync(User user);
     }
 }

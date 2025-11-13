@@ -35,7 +35,7 @@ namespace DTOs.Response
 
         public static ErrorResponse InternalError { get; } = new()
         {
-            ErrorCode = "LMS501",
+            ErrorCode = "LMS500",
             Message = "Lỗi máy chủ nội bộ"
         };
 

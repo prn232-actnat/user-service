@@ -40,6 +40,33 @@ namespace Services.Services
                 return null;
             }
 
+            DateOnly today = DateOnly.FromDateTime(DateTime.UtcNow);
+
+            if (user.LastLoginDate != null)
+            {
+                var lastLogin = user.LastLoginDate.Value;
+
+                int diff = today.DayNumber - lastLogin.DayNumber;
+
+                if (diff == 1)
+                {
+                    user.CurrentStreak += 1;
+                }
+                else if (diff > 1)
+                {
+                    user.CurrentStreak = 1;
+                }
+            }
+            else
+            {
+                user.CurrentStreak = 1;
+            }
+
+            user.LastLoginDate = today;
+
+            _unitOfWork.Users.Update(user);
+            await _unitOfWork.SaveChangesAsync();
+
             var token = GenerateJwtToken(user);
 
             return new LoginResponseDto
@@ -48,6 +75,7 @@ namespace Services.Services
                 UserResponse = _mapper.Map<UserResponseDto>(user)
             };
         }
+
 
         public async Task<(bool IsSuccess, string Message)> RegisterAsync(RegisterRequestDto dto)
         {

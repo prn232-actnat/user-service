@@ -9,8 +9,8 @@ namespace WebAPI
     {
         public MappingProfile()
         {
-            CreateMap<Payment, PaymentDto>();
-            CreateMap<Transaction, TransactionDto>();
+            CreateMap<Order, OrderDto>().ReverseMap();
+            CreateMap<Transaction, TransactionDto>().ReverseMap();
             CreateMap<User, UserDto>();
             CreateMap<User, UserResponseDto>();
         }

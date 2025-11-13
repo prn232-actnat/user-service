@@ -11,6 +11,8 @@ namespace DataAccess.UnitOfWork
     public interface IUnitOfWork : IDisposable
     {
         IUserRepository Users { get; }
+        IOrderRepository Orders { get; }
+        ITransactionRepository Transactions { get; }
 
         Task<int> SaveChangesAsync();
     }

@@ -21,19 +21,19 @@ public partial class User
 
     public DateOnly? DateOfBirth { get; set; }
 
-    public string Gender { get; set; }
-
     public int? CurrentStreak { get; set; }
 
     public DateOnly? LastLoginDate { get; set; }
+
+    public string Gender { get; set; }
+
+    public bool? Premium { get; set; }
 
     public DateTime? CreatedAt { get; set; }
 
     public DateTime? UpdatedAt { get; set; }
 
-    public bool? Premium { get; set; }
-
-    public virtual ICollection<Payment> Payments { get; set; } = new List<Payment>();
+    public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
 
     public virtual ICollection<UserBadge> UserBadges { get; set; } = new List<UserBadge>();
 }

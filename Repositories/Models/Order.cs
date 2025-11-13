@@ -3,25 +3,23 @@
 using System;
 using System.Collections.Generic;
 
-namespace DTOs;
+namespace Repositories.Models;
 
-public class PaymentDto
+public partial class Order
 {
-    public Guid Id { get; set; }
+    public Guid OrderId { get; set; }
 
     public Guid UserId { get; set; }
 
     public decimal Amount { get; set; }
 
-    public string Currency { get; set; }
-
-    public string Method { get; set; }
-
     public string Status { get; set; }
-
-    public string Description { get; set; }
 
     public DateTime? CreatedAt { get; set; }
 
     public DateTime? UpdatedAt { get; set; }
+
+    public virtual ICollection<Transaction> Transactions { get; set; } = new List<Transaction>();
+
+    public virtual User User { get; set; }
 }
