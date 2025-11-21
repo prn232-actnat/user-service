@@ -15,7 +15,23 @@
    "T4TemplatePath": null,
    "Tables": [
       {
+         "Name": "[dbo].[CommentLikes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Comments]",
+         "ObjectType": 0
+      },
+      {
          "Name": "[dbo].[Orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[QuestionLikes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Questions]",
          "ObjectType": 0
       },
       {

@@ -13,7 +13,15 @@ public partial class UserServiceContext : DbContext
     {
     }
 
+    public virtual DbSet<Comment> Comments { get; set; }
+
+    public virtual DbSet<CommentLike> CommentLikes { get; set; }
+
     public virtual DbSet<Order> Orders { get; set; }
+
+    public virtual DbSet<Question> Questions { get; set; }
+
+    public virtual DbSet<QuestionLike> QuestionLikes { get; set; }
 
     public virtual DbSet<Transaction> Transactions { get; set; }
 
@@ -23,9 +31,51 @@ public partial class UserServiceContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Comment>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Comments__3214EC07E459975C");
+
+            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
+            entity.Property(e => e.Content).IsRequired();
+            entity.Property(e => e.CreatedAt).HasDefaultValueSql("(sysdatetime())");
+            entity.Property(e => e.Likes).HasDefaultValue(0);
+
+            entity.HasOne(d => d.ParentComment).WithMany(p => p.InverseParentComment)
+                .HasForeignKey(d => d.ParentCommentId)
+                .HasConstraintName("FK_Comments_Parent");
+
+            entity.HasOne(d => d.Question).WithMany(p => p.Comments)
+                .HasForeignKey(d => d.QuestionId)
+                .HasConstraintName("FK__Comments__Questi__5BE2A6F2");
+
+            entity.HasOne(d => d.User).WithMany(p => p.Comments)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__Comments__UserId__5CD6CB2B");
+        });
+
+        modelBuilder.Entity<CommentLike>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__CommentL__3214EC07D2FBE0AA");
+
+            entity.HasIndex(e => new { e.UserId, e.CommentId }, "UQ_CommentLike").IsUnique();
+
+            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
+            entity.Property(e => e.CreatedAt).HasDefaultValueSql("(sysdatetime())");
+
+            entity.HasOne(d => d.Comment).WithMany(p => p.CommentLikes)
+                .HasForeignKey(d => d.CommentId)
+                .HasConstraintName("FK__CommentLi__Comme__6C190EBB");
+
+            entity.HasOne(d => d.User).WithMany(p => p.CommentLikes)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__CommentLi__UserI__6B24EA82");
+        });
+
         modelBuilder.Entity<Order>(entity =>
         {
-            entity.HasKey(e => e.OrderId).HasName("PK__Orders__C3905BCF18DFD45F");
+            entity.HasKey(e => e.OrderId).HasName("PK__Orders__C3905BCFA2E88644");
 
             entity.Property(e => e.OrderId).HasDefaultValueSql("(newid())");
             entity.Property(e => e.Amount).HasColumnType("decimal(18, 2)");
@@ -39,12 +89,50 @@ public partial class UserServiceContext : DbContext
             entity.HasOne(d => d.User).WithMany(p => p.Orders)
                 .HasForeignKey(d => d.UserId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__Orders__UserId__47DBAE45");
+                .HasConstraintName("FK__Orders__UserId__48CFD27E");
+        });
+
+        modelBuilder.Entity<Question>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Question__3214EC078F2E4DCE");
+
+            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
+            entity.Property(e => e.Content).IsRequired();
+            entity.Property(e => e.CreatedAt).HasDefaultValueSql("(sysdatetime())");
+            entity.Property(e => e.Likes).HasDefaultValue(0);
+            entity.Property(e => e.Title)
+                .IsRequired()
+                .HasMaxLength(255);
+            entity.Property(e => e.UpdatedAt).HasDefaultValueSql("(sysdatetime())");
+
+            entity.HasOne(d => d.User).WithMany(p => p.Questions)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__Questions__UserI__5535A963");
+        });
+
+        modelBuilder.Entity<QuestionLike>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Question__3214EC070E657416");
+
+            entity.HasIndex(e => new { e.UserId, e.QuestionId }, "UQ_QuestionLike").IsUnique();
+
+            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
+            entity.Property(e => e.CreatedAt).HasDefaultValueSql("(sysdatetime())");
+
+            entity.HasOne(d => d.Question).WithMany(p => p.QuestionLikes)
+                .HasForeignKey(d => d.QuestionId)
+                .HasConstraintName("FK__QuestionL__Quest__656C112C");
+
+            entity.HasOne(d => d.User).WithMany(p => p.QuestionLikes)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__QuestionL__UserI__6477ECF3");
         });
 
         modelBuilder.Entity<Transaction>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Transact__3214EC07F0C9F642");
+            entity.HasKey(e => e.Id).HasName("PK__Transact__3214EC07131E6599");
 
             entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
             entity.Property(e => e.Amount).HasColumnType("decimal(18, 2)");
@@ -62,14 +150,14 @@ public partial class UserServiceContext : DbContext
             entity.HasOne(d => d.Order).WithMany(p => p.Transactions)
                 .HasForeignKey(d => d.OrderId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__Transacti__Order__4F7CD00D");
+                .HasConstraintName("FK__Transacti__Order__5070F446");
         });
 
         modelBuilder.Entity<User>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Users__3214EC075F3B905A");
+            entity.HasKey(e => e.Id).HasName("PK__Users__3214EC0763DDD3B1");
 
-            entity.HasIndex(e => e.Email, "UQ__Users__A9D10534BD5BF8C8").IsUnique();
+            entity.HasIndex(e => e.Email, "UQ__Users__A9D10534D9B15B5B").IsUnique();
 
             entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
             entity.Property(e => e.CreatedAt).HasDefaultValueSql("(sysdatetime())");
@@ -81,11 +169,12 @@ public partial class UserServiceContext : DbContext
                 .IsRequired()
                 .HasMaxLength(255);
             entity.Property(e => e.Gender).HasMaxLength(10);
-            entity.Property(e => e.LastLoginDate).HasDefaultValueSql("(sysdatetime())");
+            entity.Property(e => e.LastLoginDate).HasDefaultValueSql("(NULL)");
             entity.Property(e => e.PasswordHash)
                 .IsRequired()
                 .HasMaxLength(255);
             entity.Property(e => e.PhoneNumber).HasMaxLength(20);
+            entity.Property(e => e.Points).HasDefaultValue(0);
             entity.Property(e => e.Premium).HasDefaultValue(false);
             entity.Property(e => e.Role)
                 .IsRequired()
@@ -95,7 +184,7 @@ public partial class UserServiceContext : DbContext
 
         modelBuilder.Entity<UserBadge>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__UserBadg__3214EC079899E455");
+            entity.HasKey(e => e.Id).HasName("PK__UserBadg__3214EC076846A9AF");
 
             entity.HasIndex(e => new { e.UserId, e.BadgeId }, "UQ_UserBadge").IsUnique();
 
@@ -104,7 +193,7 @@ public partial class UserServiceContext : DbContext
 
             entity.HasOne(d => d.User).WithMany(p => p.UserBadges)
                 .HasForeignKey(d => d.UserId)
-                .HasConstraintName("FK__UserBadge__UserI__4316F928");
+                .HasConstraintName("FK__UserBadge__UserI__440B1D61");
         });
 
         OnModelCreatingPartial(modelBuilder);

@@ -30,5 +30,7 @@ namespace DataAccess.GenericRepository
         {
             return await _dbSet.FirstOrDefaultAsync(predicate);
         }
+
+        public IQueryable<T> GetQueryable() => _dbSet.AsQueryable();
     }
 }

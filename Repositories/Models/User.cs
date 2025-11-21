@@ -27,13 +27,23 @@ public partial class User
 
     public string Gender { get; set; }
 
+    public int? Points { get; set; }
+
     public bool? Premium { get; set; }
 
     public DateTime? CreatedAt { get; set; }
 
     public DateTime? UpdatedAt { get; set; }
 
+    public virtual ICollection<CommentLike> CommentLikes { get; set; } = new List<CommentLike>();
+
+    public virtual ICollection<Comment> Comments { get; set; } = new List<Comment>();
+
     public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
+
+    public virtual ICollection<QuestionLike> QuestionLikes { get; set; } = new List<QuestionLike>();
+
+    public virtual ICollection<Question> Questions { get; set; } = new List<Question>();
 
     public virtual ICollection<UserBadge> UserBadges { get; set; } = new List<UserBadge>();
 }

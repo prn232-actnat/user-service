@@ -174,7 +174,8 @@ namespace Services.Services
                 new Claim("UpdatedAt", user.UpdatedAt?.ToString("O") ?? string.Empty),
                 new Claim("LastLoginDate", user.LastLoginDate?.ToString() ?? string.Empty),
                 new Claim("CurrentStreak", user.CurrentStreak?.ToString() ?? string.Empty),
-                new Claim("Premium", user.Premium?.ToString() ?? string.Empty)
+                new Claim("Premium", user.Premium?.ToString() ?? string.Empty),
+                new Claim("Points", user.Points?.ToString() ?? string.Empty)
             };
 
             var token = new JwtSecurityToken(

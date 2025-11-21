@@ -3,8 +3,220 @@
   "WorkspaceRootPath": "S:\\university\\semester_8\\PRN232\\project\\user-service\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\models\\userservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\userservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\services\\forumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\services\\forumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\iservices\\iforumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\iservices\\iforumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\models\\commentlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\commentlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repository\\commentlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\commentlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\irepository\\icommentlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irepository\\icommentlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repository\\questionlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\questionlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repository\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\irepository\\iquestionlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irepository\\iquestionlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\irepository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irepository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\models\\questionlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\questionlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\controllers\\forumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\forumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\iservices\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\iservices\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\exceptionmiddleware\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\exceptionmiddleware\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\response\\apierrorresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\response\\apierrorresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\exceptionmiddleware\\statuscodehandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\exceptionmiddleware\\statuscodehandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\customresponse\\responsemessageextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\customresponse\\responsemessageextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\customresponse\\responsecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\customresponse\\responsecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\request\\createcommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\request\\createcommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\request\\createquestionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\request\\createquestionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\irepository\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irepository\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\response\\questionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\response\\questionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\response\\commentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\response\\commentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\usersimpledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\usersimpledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\customresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\customresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\customresponse\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\customresponse\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,38 +225,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\iservices\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\iservices\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\response\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,32 +239,8 @@
       "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\vnpayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\response\\apierrorresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\response\\apierrorresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\exceptionmiddleware\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\exceptionmiddleware\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\response\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\response\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\customresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\customresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,36 +251,8 @@
       "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\vnpaycompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\UserServiceContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\Models\\UserServiceContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\irepository\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,36 +271,8 @@
       "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\services\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\response\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -193,22 +293,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\request\\changepasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|solutionrelative:dtos\\request\\changepasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\customresponse\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\customresponse\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\customresponse\\responsecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\customresponse\\responsecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\webapi\\customresponse\\responsemessageextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\customresponse\\responsemessageextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01BE701E-B7EB-47C4-B466-3A3C08E5E315}|DTOs\\DTOs.csproj|s:\\university\\semester_8\\prn232\\project\\user-service\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -286,46 +370,201 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCgAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ForumService.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services\\ForumService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\ForumService.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services\\ForumService.cs",
+              "RelativeToolTip": "Services\\Services\\ForumService.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAwLwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:25:05.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T17:41:37.424Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UserController.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Repositories\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Repositories\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:42:01.672Z",
+              "WhenOpened": "2025-11-10T09:55:09.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositories\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Repositories\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:35:49.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentLikeRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\CommentLikeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository\\CommentLikeRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\CommentLikeRepository.cs",
+              "RelativeToolTip": "Repositories\\Repository\\CommentLikeRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T18:58:21.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentLike.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\CommentLike.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\CommentLike.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\CommentLike.cs",
+              "RelativeToolTip": "Repositories\\Models\\CommentLike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T18:56:09.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServiceContext.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\UserServiceContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\UserServiceContext.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\UserServiceContext.cs",
+              "RelativeToolTip": "Repositories\\Models\\UserServiceContext.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAYwMEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:39:59.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:47:33.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\IServices\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Services\\IServices\\IAuthService.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\IServices\\IAuthService.cs",
-              "RelativeToolTip": "Services\\IServices\\IAuthService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAwAAABJAAAAAAAAAA==",
+              "Title": "IForumService.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\IServices\\IForumService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IForumService.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\IServices\\IForumService.cs",
+              "RelativeToolTip": "Services\\IServices\\IForumService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:25:13.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T17:41:25.961Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository\\CommentRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "Repositories\\Repository\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:40:13.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommentLikeRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\ICommentLikeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository\\ICommentLikeRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\ICommentLikeRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository\\ICommentLikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T18:58:47.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionLikeRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\QuestionLikeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository\\QuestionLikeRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\QuestionLikeRepository.cs",
+              "RelativeToolTip": "Repositories\\Repository\\QuestionLikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T18:57:07.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuestionRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\QuestionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository\\QuestionRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\QuestionRepository.cs",
+              "RelativeToolTip": "Repositories\\Repository\\QuestionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:22:09.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IQuestionLikeRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\IQuestionLikeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository\\IQuestionLikeRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\IQuestionLikeRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository\\IQuestionLikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T18:56:27.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ForumController.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\ForumController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ForumController.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\ForumController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ForumController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAjwFQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:42:31.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositories\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repositories\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:35:48.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository\\ICommentRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\ICommentRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:39:56.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "IVNPayService.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\IServices\\IVNPayService.cs",
               "RelativeDocumentMoniker": "Services\\IServices\\IVNPayService.cs",
@@ -333,194 +572,107 @@
               "RelativeToolTip": "Services\\IServices\\IVNPayService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:47:43.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T03:47:43.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\PaymentController.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\PaymentController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCgAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:48:39.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:25:05.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Services\\Services\\AuthService.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services\\AuthService.cs",
-              "RelativeToolTip": "Services\\Services\\AuthService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAYwDYAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "QuestionLike.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\QuestionLike.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\QuestionLike.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\QuestionLike.cs",
+              "RelativeToolTip": "Repositories\\Models\\QuestionLike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:25:54.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:55:52.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Repositories\\Models\\Order.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\Order.cs",
-              "RelativeToolTip": "Repositories\\Models\\Order.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:42:58.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Repositories\\Models\\User.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\User.cs",
-              "RelativeToolTip": "Repositories\\Models\\User.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwBcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:43:00.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "WebAPI\\MappingProfile.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\MappingProfile.cs",
-              "RelativeToolTip": "WebAPI\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:41:46.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\appsettings.json",
-              "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-10T09:52:09.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "VNPayService.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services\\VNPayService.cs",
               "RelativeDocumentMoniker": "Services\\Services\\VNPayService.cs",
               "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services\\VNPayService.cs",
               "RelativeToolTip": "Services\\Services\\VNPayService.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAuwLQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAnwK4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:48:02.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserResponseDto.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\UserResponseDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Response\\UserResponseDto.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\UserResponseDto.cs",
-              "RelativeToolTip": "DTOs\\Response\\UserResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:23:55.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoginResponseDto.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\LoginResponseDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Response\\LoginResponseDto.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\LoginResponseDto.cs",
-              "RelativeToolTip": "DTOs\\Response\\LoginResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:22:52.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "VNPayHelper.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VNPayHelper.cs",
-              "RelativeDocumentMoniker": "Services\\VNPayHelper.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VNPayHelper.cs",
-              "RelativeToolTip": "Services\\VNPayHelper.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:47:27.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAIwI0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:47:33.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\OrderDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\OrderDto.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\OrderDto.cs",
-              "RelativeToolTip": "DTOs\\OrderDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:44:00.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ApiErrorResponses.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\ApiErrorResponses.cs",
-              "RelativeDocumentMoniker": "DTOs\\Response\\ApiErrorResponses.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\ApiErrorResponses.cs",
-              "RelativeToolTip": "DTOs\\Response\\ApiErrorResponses.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:22:07.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T03:48:02.035Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\AuthService.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\Services\\AuthService.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAuwKEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:25:54.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "GlobalExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\ExceptionMiddleware\\GlobalExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "WebAPI\\ExceptionMiddleware\\GlobalExceptionHandlingMiddleware.cs",
               "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\ExceptionMiddleware\\GlobalExceptionHandlingMiddleware.cs",
               "RelativeToolTip": "WebAPI\\ExceptionMiddleware\\GlobalExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T05:33:54.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T05:33:54.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
+              "Title": "ApiErrorResponses.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\ApiErrorResponses.cs",
+              "RelativeDocumentMoniker": "DTOs\\Response\\ApiErrorResponses.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\ApiErrorResponses.cs",
+              "RelativeToolTip": "DTOs\\Response\\ApiErrorResponses.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:22:07.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StatusCodeHandlingMiddleware.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\ExceptionMiddleware\\StatusCodeHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "WebAPI\\ExceptionMiddleware\\StatusCodeHandlingMiddleware.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\ExceptionMiddleware\\StatusCodeHandlingMiddleware.cs",
+              "RelativeToolTip": "WebAPI\\ExceptionMiddleware\\StatusCodeHandlingMiddleware.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:15:16.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResponseMessageExtensions.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseMessageExtensions.cs",
+              "RelativeDocumentMoniker": "WebAPI\\CustomResponse\\ResponseMessageExtensions.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseMessageExtensions.cs",
+              "RelativeToolTip": "WebAPI\\CustomResponse\\ResponseMessageExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:17:03.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "MyCustomException.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\MyCustomException.cs",
               "RelativeDocumentMoniker": "Services\\MyCustomException.cs",
@@ -528,233 +680,35 @@
               "RelativeToolTip": "Services\\MyCustomException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T05:37:30.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Services",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services.csproj",
-              "RelativeDocumentMoniker": "Services\\Services.csproj",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services.csproj",
-              "RelativeToolTip": "Services\\Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-13T03:47:17.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "WebAPI\\CustomResponse\\ApiResponse.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ApiResponse.cs",
-              "RelativeToolTip": "WebAPI\\CustomResponse\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:21:23.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ErrorResponse.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\ErrorResponse.cs",
-              "RelativeDocumentMoniker": "DTOs\\Response\\ErrorResponse.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\ErrorResponse.cs",
-              "RelativeToolTip": "DTOs\\Response\\ErrorResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T04:07:07.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "VnPayLibrary.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VnPayLibrary.cs",
-              "RelativeDocumentMoniker": "Services\\VnPayLibrary.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VnPayLibrary.cs",
-              "RelativeToolTip": "Services\\VnPayLibrary.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T05:08:59.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "VnPayCompare.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VnPayCompare.cs",
-              "RelativeDocumentMoniker": "Services\\VnPayCompare.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VnPayCompare.cs",
-              "RelativeToolTip": "Services\\VnPayCompare.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T05:13:14.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Repositories.csproj",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repositories.csproj",
-              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repositories.csproj",
-              "RelativeToolTip": "Repositories\\Repositories.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-10T09:54:56.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UserServiceContext.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\UserServiceContext.cs",
-              "RelativeDocumentMoniker": "Repositories\\Models\\UserServiceContext.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\UserServiceContext.cs",
-              "RelativeToolTip": "Repositories\\Models\\UserServiceContext.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAjwDkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:39:59.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T05:37:30.13Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "TransactionDto.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\TransactionDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\TransactionDto.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\TransactionDto.cs",
-              "RelativeToolTip": "DTOs\\TransactionDto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAD4vw4AAAAWAAAAAAAAAA==",
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IAuthService.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IServices\\IAuthService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:45:11.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:25:13.403Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\GenericRepository\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\GenericRepository\\IGenericRepository.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\GenericRepository\\IGenericRepository.cs",
-              "RelativeToolTip": "Repositories\\GenericRepository\\IGenericRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:38:50.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\GenericRepository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\GenericRepository\\GenericRepository.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\GenericRepository\\GenericRepository.cs",
-              "RelativeToolTip": "Repositories\\GenericRepository\\GenericRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:38:48.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "TransactionRepository.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\TransactionRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Repository\\TransactionRepository.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\TransactionRepository.cs",
-              "RelativeToolTip": "Repositories\\Repository\\TransactionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:59:04.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Repository\\OrderRepository.cs",
               "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\OrderRepository.cs",
               "RelativeToolTip": "Repositories\\Repository\\OrderRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:58:29.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T03:58:29.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ITransactionRepository.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\ITransactionRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IRepository\\ITransactionRepository.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\ITransactionRepository.cs",
-              "RelativeToolTip": "Repositories\\IRepository\\ITransactionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:54:09.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "PaymentReturnDto.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\PaymentReturnDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Response\\PaymentReturnDto.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\PaymentReturnDto.cs",
-              "RelativeToolTip": "DTOs\\Response\\PaymentReturnDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:49:05.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "BuyPackageRequestDto.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\BuyPackageRequestDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Request\\BuyPackageRequestDto.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\BuyPackageRequestDto.cs",
-              "RelativeToolTip": "DTOs\\Request\\BuyPackageRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T04:16:37.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "Repositories\\Models\\Transaction.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\Transaction.cs",
-              "RelativeToolTip": "Repositories\\Models\\Transaction.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwCIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:43:44.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Services\\Application\\DependencyInjection.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Application\\DependencyInjection.cs",
-              "RelativeToolTip": "Services\\Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:56:20.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 28,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IRepository\\IOrderRepository.cs",
@@ -762,51 +716,467 @@
               "RelativeToolTip": "Repositories\\IRepository\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:55:59.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T03:55:59.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResponseCode.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseCode.cs",
+              "RelativeDocumentMoniker": "WebAPI\\CustomResponse\\ResponseCode.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseCode.cs",
+              "RelativeToolTip": "WebAPI\\CustomResponse\\ResponseCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:17:01.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T18:23:30.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebAPI\\MappingProfile.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\MappingProfile.cs",
+              "RelativeToolTip": "WebAPI\\MappingProfile.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:41:46.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Services\\Application\\DependencyInjection.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Services\\Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:56:20.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateCommentRequestDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\CreateCommentRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Request\\CreateCommentRequestDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\CreateCommentRequestDto.cs",
+              "RelativeToolTip": "DTOs\\Request\\CreateCommentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:38:49.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateQuestionRequestDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\CreateQuestionRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Request\\CreateQuestionRequestDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\CreateQuestionRequestDto.cs",
+              "RelativeToolTip": "DTOs\\Request\\CreateQuestionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:38:32.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository\\GenericRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository\\GenericRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:38:48.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository\\IUserRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:36:19.266Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\UnitOfWork\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Repositories\\UnitOfWork\\IUnitOfWork.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\UnitOfWork\\IUnitOfWork.cs",
-              "RelativeToolTip": "Repositories\\UnitOfWork\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAYAAAAAAAAAA==",
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository\\IGenericRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:35:48.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Repositories\\UnitOfWork\\UnitOfWork.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeToolTip": "Repositories\\UnitOfWork\\UnitOfWork.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:35:49.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:38:50.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Repositories\\Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Repositories\\Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Title": "IQuestionRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\IQuestionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository\\IQuestionRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\IQuestionRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository\\IQuestionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:55:09.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T17:22:50.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Presentation.http",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Presentation.http",
+              "RelativeDocumentMoniker": "WebAPI\\Presentation.http",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Presentation.http",
+              "RelativeToolTip": "WebAPI\\Presentation.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-10T09:47:34.455Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
+              "Title": "QuestionResponseDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\QuestionResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Response\\QuestionResponseDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\QuestionResponseDto.cs",
+              "RelativeToolTip": "DTOs\\Response\\QuestionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:38:19.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CommentResponseDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\CommentResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Response\\CommentResponseDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\CommentResponseDto.cs",
+              "RelativeToolTip": "DTOs\\Response\\CommentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:38:07.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserSimpleDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\UserSimpleDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserSimpleDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\UserSimpleDto.cs",
+              "RelativeToolTip": "DTOs\\UserSimpleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:36:32.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "WebAPI\\CustomResponse\\ApiResponse.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ApiResponse.cs",
+              "RelativeToolTip": "WebAPI\\CustomResponse\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:21:23.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:42:01.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T03:47:17.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:44:00.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\PaymentController.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:48:39.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "WebAPI\\CustomResponse\\ResponseMessage.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseMessage.cs",
+              "RelativeToolTip": "WebAPI\\CustomResponse\\ResponseMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:17:02.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "QuestionDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\QuestionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\QuestionDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\QuestionDto.cs",
+              "RelativeToolTip": "DTOs\\QuestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:10:36.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T09:52:09.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository\\TransactionRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\TransactionRepository.cs",
+              "RelativeToolTip": "Repositories\\Repository\\TransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:59:04.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository\\UserRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:36:24.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T09:54:56.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "User.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\User.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\User.cs",
+              "RelativeToolTip": "Repositories\\Models\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:43:00.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Order.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\Order.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\Order.cs",
+              "RelativeToolTip": "Repositories\\Models\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:42:58.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Response\\UserResponseDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\UserResponseDto.cs",
+              "RelativeToolTip": "DTOs\\Response\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:23:55.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Response\\LoginResponseDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\LoginResponseDto.cs",
+              "RelativeToolTip": "DTOs\\Response\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:22:52.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "VNPayHelper.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VNPayHelper.cs",
+              "RelativeDocumentMoniker": "Services\\VNPayHelper.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VNPayHelper.cs",
+              "RelativeToolTip": "Services\\VNPayHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:47:27.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\Response\\ErrorResponse.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\ErrorResponse.cs",
+              "RelativeToolTip": "DTOs\\Response\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:07:07.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "Services\\VnPayLibrary.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VnPayLibrary.cs",
+              "RelativeToolTip": "Services\\VnPayLibrary.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:08:59.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "VnPayCompare.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VnPayCompare.cs",
+              "RelativeDocumentMoniker": "Services\\VnPayCompare.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Services\\VnPayCompare.cs",
+              "RelativeToolTip": "Services\\VnPayCompare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:13:14.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TransactionDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\TransactionDto.cs",
+              "RelativeToolTip": "DTOs\\TransactionDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vw4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:45:11.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository\\ITransactionRepository.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\ITransactionRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:54:09.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "PaymentReturnDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\PaymentReturnDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Response\\PaymentReturnDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\PaymentReturnDto.cs",
+              "RelativeToolTip": "DTOs\\Response\\PaymentReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:49:05.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "BuyPackageRequestDto.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\BuyPackageRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Request\\BuyPackageRequestDto.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\BuyPackageRequestDto.cs",
+              "RelativeToolTip": "DTOs\\Request\\BuyPackageRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:16:37.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\Transaction.cs",
+              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Models\\Transaction.cs",
+              "RelativeToolTip": "Repositories\\Models\\Transaction.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:43:44.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
               "Title": "efpt.config.json",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\efpt.config.json",
               "RelativeDocumentMoniker": "Repositories\\efpt.config.json",
@@ -819,33 +1189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IRepository\\IUserRepository.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\IRepository\\IUserRepository.cs",
-              "RelativeToolTip": "Repositories\\IRepository\\IUserRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:36:19.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Repository\\UserRepository.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\Repositories\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:36:24.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 68,
               "Title": "OrderResponseDto.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Response\\OrderResponseDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Response\\OrderResponseDto.cs",
@@ -853,12 +1197,11 @@
               "RelativeToolTip": "DTOs\\Response\\OrderResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T03:44:33.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T03:44:33.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 69,
               "Title": "UpdateProfileRequestDto.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\UpdateProfileRequestDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Request\\UpdateProfileRequestDto.cs",
@@ -870,7 +1213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 70,
               "Title": "LoginRequestDto.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\LoginRequestDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Request\\LoginRequestDto.cs",
@@ -882,7 +1225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 71,
               "Title": "RegisterRequestDto.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\RegisterRequestDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Request\\RegisterRequestDto.cs",
@@ -894,7 +1237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 72,
               "Title": "ChangePasswordRequestDto.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\Request\\ChangePasswordRequestDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Request\\ChangePasswordRequestDto.cs",
@@ -906,55 +1249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ResponseMessage.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseMessage.cs",
-              "RelativeDocumentMoniker": "WebAPI\\CustomResponse\\ResponseMessage.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseMessage.cs",
-              "RelativeToolTip": "WebAPI\\CustomResponse\\ResponseMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T04:17:02.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "ResponseCode.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseCode.cs",
-              "RelativeDocumentMoniker": "WebAPI\\CustomResponse\\ResponseCode.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseCode.cs",
-              "RelativeToolTip": "WebAPI\\CustomResponse\\ResponseCode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T04:17:01.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Presentation.http",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Presentation.http",
-              "RelativeDocumentMoniker": "WebAPI\\Presentation.http",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\Presentation.http",
-              "RelativeToolTip": "WebAPI\\Presentation.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-10T09:47:34.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "ResponseMessageExtensions.cs",
-              "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseMessageExtensions.cs",
-              "RelativeDocumentMoniker": "WebAPI\\CustomResponse\\ResponseMessageExtensions.cs",
-              "ToolTip": "S:\\university\\semester_8\\PRN232\\project\\user-service\\WebAPI\\CustomResponse\\ResponseMessageExtensions.cs",
-              "RelativeToolTip": "WebAPI\\CustomResponse\\ResponseMessageExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T04:17:03.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 73,
               "Title": "UserDto.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\project\\user-service\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UserDto.cs",

@@ -24,7 +24,7 @@ namespace PRN232_SU25_SE_HE176690.api.ExceptionMiddleware
                 context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
                 context.Response.ContentType = "application/json";
 
-                var error = ApiErrorResponses.InternalError;
+                var error = ApiErrorResponses.ValidationError(ex.Message);
 
                 var json = JsonSerializer.Serialize(error);
                 await context.Response.WriteAsync(json);

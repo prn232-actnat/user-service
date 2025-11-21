@@ -15,5 +15,6 @@ namespace DataAccess.GenericRepository
         void Update(T entity);
         void Delete(T entity);
         Task<T> GetAsync(Expression<Func<T, bool>> predicate);
+        IQueryable<T> GetQueryable();
     }
 }

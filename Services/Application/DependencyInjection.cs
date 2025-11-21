@@ -15,6 +15,7 @@ namespace Services.Application
         {
             services.AddScoped<IAuthService, AuthService>();
             services.AddScoped<IVNPayService, VNPayService>();
+            services.AddScoped<IForumService, ForumService>();
             return services;
         }
     }

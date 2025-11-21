@@ -111,6 +111,7 @@ builder.Services.AddAuthentication(options =>
                 JsonSerializer.Serialize(ApiErrorResponses.Forbidden));
         }
     };
+    options.MapInboundClaims = false;
 });
 
 builder.Services.Configure<ApiBehaviorOptions>(options =>

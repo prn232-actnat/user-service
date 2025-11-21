@@ -1,26 +1,6 @@
 [
   {
     "ContainingType": "WebAPI.Controllers.UserController",
-    "Method": "GetAll",
-    "RelativePath": "api/v1/user",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "WebAPI.Controllers.AuthController",
     "Method": "ChangePassword",
     "RelativePath": "api/v1/user/change-password",
     "HttpMethod": "PUT",
@@ -30,6 +10,80 @@
       {
         "Name": "request",
         "Type": "DTOs.Request.ChangePasswordRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.ForumController",
+    "Method": "CreateComment",
+    "RelativePath": "api/v1/user/forum/comments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DTOs.Request.CreateCommentRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.ForumController",
+    "Method": "LikeComment",
+    "RelativePath": "api/v1/user/forum/comments/{id}/like",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.ForumController",
+    "Method": "GetAllQuestions",
+    "RelativePath": "api/v1/user/forum/questions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.ForumController",
+    "Method": "CreateQuestion",
+    "RelativePath": "api/v1/user/forum/questions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DTOs.Request.CreateQuestionRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.ForumController",
+    "Method": "LikeQuestion",
+    "RelativePath": "api/v1/user/forum/questions/{id}/like",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
         "IsRequired": true
       }
     ],
@@ -94,7 +148,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "WebAPI.Controllers.AuthController",
+    "ContainingType": "WebAPI.Controllers.UserController",
     "Method": "UpdateProfile",
     "RelativePath": "api/v1/user/update-profile",
     "HttpMethod": "PUT",
